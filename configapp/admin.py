@@ -10,4 +10,4 @@ class NewsAdmin(admin.ModelAdmin):
 
 
 admin.site.register(News)
-admin.site.register(Categories)
+admin.site.register(Category)
